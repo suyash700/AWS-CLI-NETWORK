@@ -8,6 +8,11 @@ All resources are provisioned in **`ap-south-2` (Hyderabad)**.
 
 ---
 
+# Network architecture diagram
+
+<img width="1602" height="773" alt="image" src="https://github.com/user-attachments/assets/83018257-5914-4d2b-9575-745b28211bcf" />
+
+
 ## 🏗️ Architecture Components
 
 | Resource Type | Name | Description |
